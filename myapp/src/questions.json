@@ -1,0 +1,398 @@
+{
+  "PY_AI_ML": [
+    {
+      "question": "Which of the following is a Python data type?",
+      "options": ["int", "float", "char", "boolean"],
+      "answer": "int"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "def", "function", "lambda"],
+      "answer": "def"
+    },
+    {
+      "question": "Which library is used for numerical computations in Python?",
+      "options": ["NumPy", "Pandas", "Matplotlib", "TensorFlow"],
+      "answer": "NumPy"
+    },
+    {
+      "question": "Which Python collection type is ordered, changeable, and allows duplicate members?",
+      "options": ["Set", "List", "Tuple", "Dictionary"],
+      "answer": "List"
+    },
+    {
+      "question": "What does ML stand for?",
+      "options": [
+        "Machine Learning",
+        "Multiple Layers",
+        "Matrix Library",
+        "Memory Load"
+      ],
+      "answer": "Machine Learning"
+    },
+
+    {
+      "question": "Which ML algorithm is best for classifying emails as spam or not spam?",
+      "options": ["Naive Bayes", "K-Means", "Linear Regression", "DBSCAN"],
+      "answer": "Naive Bayes"
+    },
+    {
+      "question": "Which Python library is widely used for machine learning?",
+      "options": ["Scikit-learn", "Flask", "Pandas", "Django"],
+      "answer": "Scikit-learn"
+    },
+    {
+      "question": "Which activation function is commonly used in neural networks?",
+      "options": ["ReLU", "Softmax", "Sigmoid", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is used for dimensionality reduction?",
+      "options": ["PCA", "Regression", "Classification", "Clustering"],
+      "answer": "PCA"
+    },
+    {
+      "question": "What is overfitting in machine learning?",
+      "options": [
+        "Model performs well on training but poorly on test data",
+        "Model performs well on both training and test data",
+        "Model performs poorly on both training and test data",
+        "None of these"
+      ],
+      "answer": "Model performs well on training but poorly on test data"
+    },
+
+    {
+      "question": "Which optimization algorithm is commonly used in training deep learning models?",
+      "options": ["Gradient Descent", "Apriori", "PageRank", "K-Means"],
+      "answer": "Gradient Descent"
+    },
+    {
+      "question": "Which loss function is commonly used for classification?",
+      "options": [
+        "Mean Squared Error",
+        "Cross-Entropy",
+        "Huber Loss",
+        "Hinge Loss"
+      ],
+      "answer": "Cross-Entropy"
+    },
+    {
+      "question": "Which of the following is a reinforcement learning algorithm?",
+      "options": ["Q-Learning", "PCA", "Naive Bayes", "Linear Regression"],
+      "answer": "Q-Learning"
+    },
+    {
+      "question": "What is the purpose of dropout in neural networks?",
+      "options": [
+        "Reduce overfitting",
+        "Increase accuracy on training",
+        "Increase model size",
+        "Speed up training"
+      ],
+      "answer": "Reduce overfitting"
+    },
+    {
+      "question": "Which of the following is NOT a type of neural network?",
+      "options": ["CNN", "RNN", "GAN", "SQL"],
+      "answer": "SQL"
+    },
+    {
+      "question": "What does LSTM stand for?",
+      "options": [
+        "Long Short-Term Memory",
+        "Large Sample Training Model",
+        "Linear Sequential Task Method",
+        "Least Square Time Model"
+      ],
+      "answer": "Long Short-Term Memory"
+    },
+    {
+      "question": "Which Python library is used for large-scale data manipulation?",
+      "options": ["Seaborn", "Pandas", "Matplotlib", "Scikit-learn"],
+      "answer": "Pandas"
+    },
+    {
+      "question": "Which concept in ML deals with bias-variance tradeoff?",
+      "options": [
+        "Model generalization",
+        "Feature scaling",
+        "Normalization",
+        "Over-sampling"
+      ],
+      "answer": "Model generalization"
+    },
+    {
+      "question": "Which algorithm is used in recommendation systems like Netflix?",
+      "options": [
+        "Collaborative Filtering",
+        "Naive Bayes",
+        "K-Means",
+        "Decision Tree"
+      ],
+      "answer": "Collaborative Filtering"
+    },
+    {
+      "question": "Which library is mostly used for GPU acceleration in deep learning?",
+      "options": ["NumPy", "PyTorch", "Matplotlib", "OpenCV"],
+      "answer": "PyTorch"
+    }
+  ],
+
+  "MERN": [
+    {
+      "question": "What does MERN stand for?",
+      "options": [
+        "MongoDB, Express, React, Node.js",
+        "MySQL, Express, React, Node.js",
+        "MongoDB, Ember, Redux, Node.js",
+        "MongoDB, Express, Ruby, Node.js"
+      ],
+      "answer": "MongoDB, Express, React, Node.js"
+    },
+    {
+      "question": "Which database is used in the MERN stack?",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+      "answer": "MongoDB"
+    },
+    {
+      "question": "Which of the following is a NoSQL database?",
+      "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+      "answer": "MongoDB"
+    },
+    {
+      "question": "Which React hook is used to handle state?",
+      "options": ["useEffect", "useState", "useRef", "useContext"],
+      "answer": "useState"
+    },
+    {
+      "question": "Which Node.js framework is used in MERN?",
+      "options": ["Django", "Flask", "Express.js", "Spring Boot"],
+      "answer": "Express.js"
+    },
+
+    {
+      "question": "Which command initializes a Node.js project?",
+      "options": ["node init", "npm start", "npm init", "node start"],
+      "answer": "npm init"
+    },
+    {
+      "question": "Which HTTP method is used to update data in REST APIs?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "answer": "PUT"
+    },
+    {
+      "question": "Which hook is used to perform side effects in React?",
+      "options": ["useState", "useEffect", "useRef", "useMemo"],
+      "answer": "useEffect"
+    },
+    {
+      "question": "Which MongoDB method is used to retrieve all documents?",
+      "options": ["find()", "get()", "search()", "fetch()"],
+      "answer": "find()"
+    },
+    {
+      "question": "Which property is used in React to pass data from parent to child?",
+      "options": ["props", "state", "context", "data"],
+      "answer": "props"
+    },
+
+    {
+      "question": "What is the role of middleware in Express.js?",
+      "options": [
+        "To handle requests and responses",
+        "To store database data",
+        "To compile React code",
+        "To manage state"
+      ],
+      "answer": "To handle requests and responses"
+    },
+    {
+      "question": "Which React feature prevents unnecessary re-rendering?",
+      "options": [
+        "React.memo",
+        "React.lazy",
+        "React.Fragment",
+        "React.cloneElement"
+      ],
+      "answer": "React.memo"
+    },
+    {
+      "question": "Which command is used to install dependencies from package.json?",
+      "options": ["npm install", "npm run", "npm start", "node install"],
+      "answer": "npm install"
+    },
+    {
+      "question": "In MongoDB, which operator is used for pattern matching?",
+      "options": ["$", "%", "$regex", "$match"],
+      "answer": "$regex"
+    },
+    {
+      "question": "Which lifecycle method is replaced by useEffect in functional components?",
+      "options": [
+        "componentDidMount",
+        "shouldComponentUpdate",
+        "componentWillUnmount",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+
+    {
+      "question": "How do you secure passwords in a MERN application?",
+      "options": [
+        "Save in plain text",
+        "Hash with bcrypt",
+        "Encrypt with base64",
+        "Store in cookies"
+      ],
+      "answer": "Hash with bcrypt"
+    },
+    {
+      "question": "Which tool is commonly used for authentication in MERN apps?",
+      "options": ["JWT", "Redux", "OAuth", "Both JWT and OAuth"],
+      "answer": "Both JWT and OAuth"
+    },
+    {
+      "question": "Which React hook improves performance by memoizing values?",
+      "options": ["useEffect", "useMemo", "useReducer", "useContext"],
+      "answer": "useMemo"
+    },
+    {
+      "question": "How do you scale a MERN application for high traffic?",
+      "options": [
+        "Database indexing, load balancing, caching",
+        "Add more CSS",
+        "Increase number of props",
+        "Use console.log"
+      ],
+      "answer": "Database indexing, load balancing, caching"
+    },
+    {
+      "question": "Which deployment platform is commonly used for MERN apps?",
+      "options": ["Heroku", "Netlify", "Vercel", "All of the above"],
+      "answer": "All of the above"
+    }
+  ],
+
+  "JAVA": [
+    {
+      "question": "Which keyword is used to define a class in Java?",
+      "options": ["class", "define", "struct", "object"],
+      "answer": "class"
+    },
+    {
+      "question": "Which method is the entry point of any Java program?",
+      "options": ["start()", "main()", "run()", "init()"],
+      "answer": "main()"
+    },
+    {
+      "question": "Which of these is not a Java primitive data type?",
+      "options": ["int", "boolean", "String", "char"],
+      "answer": "String"
+    },
+    {
+      "question": "Which symbol is used to end a Java statement?",
+      "options": [".", ",", ";", ":"],
+      "answer": ";"
+    },
+    {
+      "question": "Which keyword is used to create an object in Java?",
+      "options": ["new", "create", "object", "init"],
+      "answer": "new"
+    },
+
+    {
+      "question": "Which OOP principle refers to using a common interface for different implementations?",
+      "options": [
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Abstraction"
+      ],
+      "answer": "Polymorphism"
+    },
+    {
+      "question": "Which package is automatically imported in every Java program?",
+      "options": ["java.io", "java.util", "java.lang", "java.sql"],
+      "answer": "java.lang"
+    },
+    {
+      "question": "Which exception is thrown when dividing by zero in Java?",
+      "options": [
+        "IOException",
+        "NullPointerException",
+        "ArithmeticException",
+        "RuntimeException"
+      ],
+      "answer": "ArithmeticException"
+    },
+    {
+      "question": "Which collection class allows unique elements and no duplicates?",
+      "options": ["ArrayList", "HashSet", "LinkedList", "Vector"],
+      "answer": "HashSet"
+    },
+    {
+      "question": "Which Java keyword is used to inherit a class?",
+      "options": ["extends", "implements", "inherits", "super"],
+      "answer": "extends"
+    },
+
+    {
+      "question": "Which Java keyword is used to prevent inheritance of a class?",
+      "options": ["final", "static", "const", "protected"],
+      "answer": "final"
+    },
+    {
+      "question": "Which interface is used in Java for multi-threading?",
+      "options": ["Runnable", "Serializable", "Cloneable", "Comparable"],
+      "answer": "Runnable"
+    },
+    {
+      "question": "Which method is used to start a thread in Java?",
+      "options": ["init()", "start()", "run()", "execute()"],
+      "answer": "start()"
+    },
+    {
+      "question": "Which Java collection maintains insertion order?",
+      "options": ["HashMap", "HashSet", "LinkedHashMap", "TreeSet"],
+      "answer": "LinkedHashMap"
+    },
+    {
+      "question": "Which exception handling keyword is used to release resources?",
+      "options": ["try", "catch", "finally", "throw"],
+      "answer": "finally"
+    },
+
+    {
+      "question": "What is the time complexity of searching in a HashMap?",
+      "options": ["O(n)", "O(log n)", "O(1)", "O(n log n)"],
+      "answer": "O(1)"
+    },
+    {
+      "question": "Which Java feature allows memory to be managed automatically?",
+      "options": [
+        "Pointers",
+        "Garbage Collection",
+        "Dynamic Allocation",
+        "Reference Counting"
+      ],
+      "answer": "Garbage Collection"
+    },
+    {
+      "question": "Which design pattern ensures only one instance of a class exists?",
+      "options": ["Factory", "Singleton", "Observer", "Builder"],
+      "answer": "Singleton"
+    },
+    {
+      "question": "Which Java keyword is used to call the parent class constructor?",
+      "options": ["this", "super", "extends", "base"],
+      "answer": "super"
+    },
+    {
+      "question": "Which Java feature supports communication between different machines in a network?",
+      "options": ["JDBC", "RMI", "JVM", "JRE"],
+      "answer": "RMI"
+    }
+  ]
+}
