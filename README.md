@@ -34,6 +34,10 @@ This project demonstrates the power of React for dynamic UI rendering, state man
 
 ---
 
+## Deployed
+- Vercel Link: quiz-application-sable-three.vercel.app
+---
+
 ## 🔚 Conclusion
 - This project demonstrates how a simple idea—**a quiz app powered by React and JSON**—can turn into an engaging and user-friendly application.
 - It not only showcases **React’s component-based structure, state management, and clean UI practices**, but also highlights the potential of building lightweight yet dynamic projects without a backend.
