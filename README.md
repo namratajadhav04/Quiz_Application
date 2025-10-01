@@ -34,7 +34,7 @@ This project demonstrates the power of React for dynamic UI rendering, state man
 
 ---
 
-## Deployed
+## 🌐 Deployed
 - Vercel Link: quiz-application-sable-three.vercel.app
 ---
 
